@@ -82,3 +82,27 @@
 **4 Types of API in gRPC**
 
 ![24](./images/24.png)
+![25](./images/25.png)
+![26](./images/26.png)
+
+## Scalability in gPRC
+
+![27](./images/27.png)
+
+## Security in gRPC
+
+![28](./images/28.png)
+
+## REST vs gRPC
+
+**REST API example**
+
+![29](./images/29.png)
+
+**gRPC vs REST**
+
+![30](./images/30.png)
+
+## Summary: why use gRPC
+
+![31](./images/31.png)
