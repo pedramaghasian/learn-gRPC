@@ -114,9 +114,13 @@
 
 `$ go get -u google.golang.org/grpc`
 
-`go install http://google.golang.org/protobuf/cmd/protoc-gen-go@v1.26`
+`go install http://google.golang.org/protobuf/cmd/protoc-gen-go@latest`
 
-`go install http://google.golang.org/grpc/cmd/protoc-gen-go-grpc@v1.1`
+`go install http://google.golang.org/grpc/cmd/protoc-gen-go-grpc@latest`
+
+`export PATH=$PATH:~/go/bin`
+
+https://grpc.io/docs/languages/go/quickstart/
 
 ---------------------
 
@@ -131,4 +135,21 @@
 
 ![34](./images/34.png)
 
-5
+![35](./images/35.png)
+
+-------------------------
+
+# gPRC Client streaming
+
+![36](./images/36.png)
+
+![37](./images/37.png)
+
+----------------------------
+
+# gRPC Bi Directional Streaming
+
+![38](./images/38.png)
+![39](./images/39.png)
+
+9-1
