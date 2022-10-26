@@ -196,5 +196,36 @@ Code Samples for Security : https://grpc.io/docs/guides/auth.html
 
 ![49](./images/49.png)
 
+**some links**
 
-9-2
+Code Samples for Security : https://grpc.io/docs/guides/auth.html
+
+https://github.com/grpc/grpc-go/blob/master/Documentation/grpc-auth-support.md
+
+
+**Hands On**
+
+![50](./images/50.png)
+
+--------------------------------------
+
+# gRPC Reflection & CLI
+
+**Steps:**
+
+1. **prepare the server :** https://github.com/grpc/grpc-go/tree/master/reflection
+2. **install evans cli grpc :** https://github.com/ktr0731/evans
+
+3. `evans -p 50051 -r`
+4. `show package`
+5. `package <package_name>`
+6. `show service`
+7. `service <service_name>`
+8. `show message`
+9. `desc <message>`
+
+**call RPC**
+
+1. `call <rpc_name>`
+
+![51](./images/51.png)
