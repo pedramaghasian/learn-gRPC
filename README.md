@@ -152,4 +152,49 @@ https://grpc.io/docs/languages/go/quickstart/
 ![38](./images/38.png)
 ![39](./images/39.png)
 
-9-1
+-----------------------------
+
+# gRPC Advance Features
+
+## Errors in gRPC
+
+Error Codes Documentation : https://grpc.io/docs/guides/error.html
+
+Errors Sample Code : http://avi.im/grpc-errors
+
+![40](./images/40.png)
+![41](./images/41.png)
+
+------------------------------
+
+# gRPC Deadlines
+
+https://grpc.io/blog/deadlines/
+
+![42](./images/42.png)
+![43](./images/43.png)
+
+-------------------------------
+
+# SSL Encryption in gRPC
+
+Code Samples for Security : https://grpc.io/docs/guides/auth.html
+
+![44](./images/44.png)
+
+**the need for SSL Encryption**
+
+![45](./images/45.png)
+![46](./images/46.png)
+![47](./images/47.png)
+
+**What is SSL**
+
+![48](./images/48.png)
+
+**Detailed Setup of SSL Fro Encryption**
+
+![49](./images/49.png)
+
+
+9-2
