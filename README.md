@@ -229,3 +229,30 @@ https://github.com/grpc/grpc-go/blob/master/Documentation/grpc-auth-support.md
 1. `call <rpc_name>`
 
 ![51](./images/51.png)
+
+-------------------------------
+
+## gRPC services in the real world
+
+![52](./images/52.png)
+
+**Google pub/sub with grpc**
+
+https://github.com/googleapis/googleapis/blob/master/google/pubsub/v1/pubsub.proto
+
+**Google spanner**
+
+https://github.com/googleapis/googleapis/blob/master/google/spanner/v1/spanner.proto
+
+**gRPC gateway**
+
+https://github.com/grpc-ecosystem/grpc-gateway
+
+-------------------------
+
+# What's nex ?
+
+**Read the documentation :**
+
+https://grpc.io/
+
